@@ -1,0 +1,4 @@
+// compiler file GUI
+ gcc test.c -o testGUI `pkg-config --cflags --libs gtk+-3.0`
+
+ 

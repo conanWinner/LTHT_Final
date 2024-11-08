@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdbool.h": "c",
+        "graph_logic.h": "c",
+        "banker_logic.h": "c",
+        "string.h": "c"
+    }
+}
